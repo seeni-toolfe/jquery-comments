@@ -640,7 +640,7 @@ http://viima.github.io/jquery-comments/*/
 
 .jquery-comments ul.main li.comment .actions .action:not(.upvote):hover,
 .jquery-comments ul.main li.comment .actions .action.upvote:not(.highlight-font) i:hover {
-	color: #666;
+	color: #Ffc0cb;
 }
 
 .jquery-comments ul.main li.comment .actions .action.delete {
